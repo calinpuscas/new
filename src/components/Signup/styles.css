@@ -1,4 +1,4 @@
-.signin {
+.signup {
   display: block;
   width: 100%;
   max-width: 50rem;
@@ -6,11 +6,11 @@
   border: 0.3px solid #f3afa1;
 }
 
-.signin .wrap {
+.signup .wrap {
   padding: 0 10px;
 }
 
-.signin .wrap h2 {
+.signup .wrap h2 {
   font-size: 2.5rem;
   line-height: 2;
   font-weight: 300;
@@ -19,12 +19,12 @@
   letter-spacing: 1.5rem;
   text-align: center;
   width: 100%;
-  margin: 0 auto 3rem;
+  margin: 0 auto;
   padding: 0;
   font-weight: 700;
   color: #f3afa1;
 }
 
-.signin .wrap .socialSignin {
-  margin: 1rem auto 0;
+.signup .wrap .formWrap {
+  margin: 3rem auto 0;
 }
