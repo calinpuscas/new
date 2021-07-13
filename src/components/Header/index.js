@@ -23,6 +23,7 @@ const Header = (props) => {
               <li>
                 <Link to="/dashboard">My Account</Link>
               </li>
+              <li></li>
               <li>
                 <span onClick={() => auth.signOut()}>LogOut</span>
               </li>
